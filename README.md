@@ -4,6 +4,6 @@
 
 **As of now, our focus rests in three main projects:**
 
-- 🌀 [The Twist](https://github.com/bendertools/the-twist) - a portable LT25 amp-augmentation platform
+- 🌀 [The Twist](https://github.com/bendertools/the-twist) - a portable LT-amp augmentation platform
 - 🪵 Timbre (Soon!) - a desktop guitar amp interface and mini-DAW
-- 🎸 [lt25.py](https://github.com/bendertools/lt25.py) - a Python module for interfacing with the LT25 amp
+- 🎸 [LTAmp.py](https://github.com/bendertools/LTAmp.py) - a Python module for interfacing with LT amps
