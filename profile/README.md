@@ -1,6 +1,6 @@
-# Bender Tools
+# Bender
 
-🎹 Bender tools is an organization which aims to facilitate the development, research, release, and maintenance of projects dedicated to redefining various technologies used by musicians, starting with guitar amplifiers.
+🎹 Bender is an organization which aims to facilitate the development, research, release, and maintenance of projects dedicated to redefining various technologies used by musicians, starting with guitar amplifiers.
 
 **As of now, our focus rests in three main projects:**
 
